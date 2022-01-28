@@ -1,4 +1,4 @@
-# MapboxAnnotationLeak
+# MapboxAnnotationClustering
 This repository sample app demonstrates an issue with view Annotations and clustering
 
 # Usage
